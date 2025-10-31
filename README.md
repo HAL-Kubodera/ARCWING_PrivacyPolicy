@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="ja">
 <body>
   <h1>プライバシーポリシー</h1>
